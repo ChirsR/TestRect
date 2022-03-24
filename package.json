@@ -146,7 +146,7 @@
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.4",
     "gulp-watch": "^5.0.1",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "style-loader": "^0.23.0"
   }
 }
