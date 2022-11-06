@@ -141,7 +141,7 @@
   "devDependencies": {
     "babel-plugin-import": "^1.11.0",
     "css-loader": "^1.0.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.4",
